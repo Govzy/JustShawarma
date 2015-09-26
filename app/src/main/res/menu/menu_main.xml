@@ -1,0 +1,11 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools" tools:context=".MainActivity">
+    <item android:id="@+id/action_Checkout" android:title="@string/activity_Checkout"
+        android:orderInCategory="100" app:showAsAction="never" />
+    <item android:id="@+id/about_Us" android:title="aboutUsPage"
+        android:orderInCategory="100" app:showAsAction="never" />
+    <item android:id="@+id/inviteFriend" android:title="inviteFriend"
+        android:orderInCategory="100" app:showAsAction="never" />
+
+</menu>
